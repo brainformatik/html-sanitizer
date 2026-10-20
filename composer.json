@@ -25,7 +25,7 @@
         "php": ">=8.2",
         "ext-dom": "*",
         "league/uri": "^6.5|^7.0",
-        "masterminds/html5": "2.11.0.1"
+        "masterminds/html5": "2.11.0.1",
         "symfony/deprecation-contracts": "^2.5|^3"
     },
     "autoload": {
